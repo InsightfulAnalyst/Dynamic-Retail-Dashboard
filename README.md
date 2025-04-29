@@ -10,7 +10,7 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 - 🪜 **Top & Bottom 5 Sub-Categories** based on each KPI
 - 📈 **Scatter Plot** of Sales vs Profit
 
-**📊 Sample Data Tables**
+# **📊 Sample Data Tables**
 ### 🧾 **Order Table (Sample)**
 | **Order ID**       | **Order Date** | **Segment**  | **Category**  | **Sub-Category** | **Sales** | **Quantity** | **Profit** |
 |--------------------|----------------|--------------|---------------|------------------|-----------|--------------|------------|
