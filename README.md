@@ -116,3 +116,27 @@ How do different customer segments and regions affect business outcomes?
 
 
 
+---
+
+# Snapshot of the Dashboard
+
+![image](https://github.com/user-attachments/assets/c0f54aa1-99f9-4c01-922e-e173008edfed)
+
+
+
+
+
+
+## 📌 Conclusion
+This Walmart Retail Dashboard demonstrates how powerful insights can be extracted from structured data using nothing more than Microsoft Excel. By leveraging interactive features like slicers, charts, and maps, we transformed a flat dataset into a dynamic visual story that:
+
+1. Identifies top and bottom-performing products
+
+2. Reveals regional performance gaps
+
+3. Highlights yearly growth patterns in key metrics
+
+4. Provides actionable insights into sales and profitability
+
+This project reflects not just data visualization but also business understanding, making it a great example of how Excel can be used as a business intelligence tool for decision-making.
+
