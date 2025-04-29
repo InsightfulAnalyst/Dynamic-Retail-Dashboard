@@ -40,3 +40,25 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 | Total qty          | 📦               | SUM(Quantity)         |
 | No. of orders      | 🛒               | Count (Order ID)      |
 | Profit margin      | 🔍               | SUM(Profit/Sum(Sales) |          
+
+**🧠 Problem Statements Solved**
+This project was designed to solve the following key business problems:
+
+How are Walmart's key performance indicators (KPIs) trending over time?
+→ Solved using yearly trend line charts for Sales, Profit, Quantity, and Orders.
+
+Which product categories and subcategories contribute the most or least to performance?
+→ Solved using pie charts and bar charts for Top & Bottom 5 subcategories.
+
+What is the geographical performance distribution (e.g., by country)?
+→ Solved using a Map Chart displaying Total Profit by Country.
+
+How can we visualize correlation between sales and profit to detect anomalies?
+→ Solved using a Sales vs Profit Scatter Plot.
+
+How do different customer segments and regions affect business outcomes?
+→ Solved using slicers and filters for dynamic analysis.
+
+How are returns impacting overall profitability?
+→ Solved using insights from the Return table matched against Order data.
+
