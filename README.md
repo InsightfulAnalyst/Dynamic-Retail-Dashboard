@@ -12,8 +12,10 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 
 **📊 Sample Data Tables**
 🧾 Order Table (Sample)
-Order ID | Order Date | Segment | Category | Sub-Category | Sales | Quantity | Profit
-CA-2017-152156 | 2017-11-08 | Consumer | Furniture | Bookcases | 261.96 | 2 | 41.91
-CA-2017-152156 | 2017-11-08 | Consumer | Furniture | Chairs | 731.94 | 3 | 219.58
-US-2016-108966 | 2016-10-11 | Corporate | Technology | Phones | 907.15 | 5 | 145.79
+### 🧾 **Order Table (Formatted)**
+| **Order ID**       | **Order Date** | **Segment**  | **Category**  | **Sub-Category** | **Sales** | **Quantity** | **Profit** |
+|--------------------|----------------|--------------|---------------|------------------|-----------|--------------|------------|
+| CA-2017-152156     | 2017-11-08     | Consumer     | Furniture     | Bookcases        | 261.96    | 2            | 41.91      |
+| CA-2017-152156     | 2017-11-08     | Consumer     | Furniture     | Chairs           | 731.94    | 3            | 219.58     |
+| US-2016-108966     | 2016-10-11     | Corporate    | Technology    | Phones           | 907.15    | 5            | 145.79     |
 
