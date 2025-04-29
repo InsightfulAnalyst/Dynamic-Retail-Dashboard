@@ -46,6 +46,8 @@ This project was designed to solve the following key business problems:
 
 How are Walmart's key performance indicators (KPIs) trending over time?
 → Solved using yearly trend line charts for Sales, Profit, Quantity, and Orders.
+![image](https://github.com/user-attachments/assets/e342eed9-adc5-408a-ba24-042e67c49024)
+
 
 Which product categories and subcategories contribute the most or least to performance?
 → Solved using pie charts and bar charts for Top & Bottom 5 subcategories.
