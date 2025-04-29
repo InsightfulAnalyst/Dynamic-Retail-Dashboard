@@ -41,7 +41,7 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 | No. of orders      | 🛒               | Count (Order ID)      |
 | Profit margin      | 🔍               | SUM(Profit/Sum(Sales) |          
 
-**🧠 Problem Statements Solved**
+# **🧠 Problem Statements Solved**
 This project was designed to solve the following key business problems:
 
 How are Walmart's key performance indicators (KPIs) trending over time?
