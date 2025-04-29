@@ -56,6 +56,14 @@ How are Walmart's key performance indicators (KPIs) trending over time?
 Which product categories and subcategories contribute the most or least to performance?
 → Solved using pie charts and bar charts for Top & Bottom 5 subcategories.
 
+![image](https://github.com/user-attachments/assets/3633d0b1-b63d-4054-90b6-effcfe43461d)
+
+
+
+
+
+
+
 What is the geographical performance distribution (e.g., by country)?
 → Solved using a Map Chart displaying Total Profit by Country.
 
