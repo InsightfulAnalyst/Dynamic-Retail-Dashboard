@@ -42,7 +42,7 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 | Profit margin      | 🔍               | SUM(Profit/Sum(Sales) |          
 
 # **🧠 Problem Statements Solved**
-This project was designed to solve the following key business problems:
+The Dynamic retail dashboard answers several buisness questions, providing in-depth insights into key performance areas:
 
 How are Walmart's key performance indicators (KPIs) trending over time?
 → Solved using yearly trend line charts for Sales, Profit, Quantity, and Orders.
@@ -54,7 +54,7 @@ How are Walmart's key performance indicators (KPIs) trending over time?
 
 
 Which product categories and subcategories contribute the most or least to performance?
-→ Solved using pie charts and bar charts for Top & Bottom 5 subcategories.
+→ Solved using  bar charts for Top & Bottom 5 subcategories.
 
 ![image](https://github.com/user-attachments/assets/a621f1c2-1fbf-41fa-b496-7ee35e5a890e)
 
@@ -68,12 +68,51 @@ Which product categories and subcategories contribute the most or least to perfo
 What is the geographical performance distribution (e.g., by country)?
 → Solved using a Map Chart displaying Total Profit by Country.
 
+![image](https://github.com/user-attachments/assets/67580aa0-250e-4f01-9991-9625d418637d)
+
+
+
+
+
+
+
 How can we visualize correlation between sales and profit to detect anomalies?
 → Solved using a Sales vs Profit Scatter Plot.
+
+![image](https://github.com/user-attachments/assets/092ae1f1-26e7-4b2b-bc5f-f7eefea5e1dd)
+
+
+
+
+
+Category-wise Profit 
+→ Solved using  Pie chart
+
+![image](https://github.com/user-attachments/assets/f42f88e6-a282-4532-9a0e-eafd0096ba25)
+
+
+
+
+
+
+
+Segment-wise Sales share %
+→ Solved using  Donut chart
+
+![image](https://github.com/user-attachments/assets/39f05b42-1527-4015-8e28-e76825eb86bf)
+
+
+
+
+
+
+
 
 How do different customer segments and regions affect business outcomes?
 → Solved using slicers and filters for dynamic analysis.
 
-How are returns impacting overall profitability?
-→ Solved using insights from the Return table matched against Order data.
+![image](https://github.com/user-attachments/assets/34c986ef-7d23-4387-bd51-343e9200345f)
+
+
+
 
