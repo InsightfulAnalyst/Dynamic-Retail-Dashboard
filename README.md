@@ -56,7 +56,8 @@ How are Walmart's key performance indicators (KPIs) trending over time?
 Which product categories and subcategories contribute the most or least to performance?
 → Solved using pie charts and bar charts for Top & Bottom 5 subcategories.
 
-![image](https://github.com/user-attachments/assets/3633d0b1-b63d-4054-90b6-effcfe43461d)
+![image](https://github.com/user-attachments/assets/a621f1c2-1fbf-41fa-b496-7ee35e5a890e)
+
 
 
 
