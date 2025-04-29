@@ -10,7 +10,7 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 - 🪜 **Top & Bottom 5 Sub-Categories** based on each KPI
 - 📈 **Scatter Plot** of Sales vs Profit
 
-# **📊 Sample Data Tables**
+## **📊 Sample Data Tables**
 ### 🧾 **Order Table (Sample)**
 | **Order ID**       | **Order Date** | **Segment**  | **Category**  | **Sub-Category** | **Sales** | **Quantity** | **Profit** |
 |--------------------|----------------|--------------|---------------|------------------|-----------|--------------|------------|
@@ -41,7 +41,7 @@ An interactive Excel dashboard to analyze Walmart's retail performance. This das
 | No. of orders      | 🛒               | Count (Order ID)      |
 | Profit margin      | 🔍               | SUM(Profit/Sum(Sales) |          
 
-# **🧠 Problem Statements Solved**
+## **🧠 Problem Statements Solved**
 The Dynamic retail dashboard answers several buisness questions, providing in-depth insights into key performance areas:
 
 How are Walmart's key performance indicators (KPIs) trending over time?
@@ -118,7 +118,7 @@ How do different customer segments and regions affect business outcomes?
 
 ---
 
-# Snapshot of the Dashboard
+## Snapshot of the Dashboard
 
 ![image](https://github.com/user-attachments/assets/c0f54aa1-99f9-4c01-922e-e173008edfed)
 
